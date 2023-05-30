@@ -1,0 +1,2 @@
+# React-Emojipedia_App_Mapping_Components_Practise
+Created with CodeSandbox
